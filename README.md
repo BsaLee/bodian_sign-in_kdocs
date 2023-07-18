@@ -37,4 +37,4 @@ for (var i = 0; i < uidArray.length; i++) {
 # 11、关闭代码编辑框，点击【效率】-【高级开发】-【定时任务】
 # 12、点击【创建任务】
 # 13、设置每天运行的时间，选择刚刚选择的脚本，保存，大功告成
-![alt text]([https://github.com/BsaLee/bodian_sign-in_kdocs/blob/main/aa1dba530c1f056a86971d751d2983a.jpg?raw=true]("Title")
+![opensuse-laptop](/aa1dba530c1f056a86971d751d2983a.jpg)
